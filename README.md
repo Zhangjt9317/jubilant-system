@@ -1,4 +1,6 @@
-## Visualizing
+## Visualizing Crypto Data
+
+This project involves visualizing crypto data 
 
 data sources:
 1. ccxt
